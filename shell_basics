@@ -1,0 +1,41 @@
+
+
+# Shell Scripting Basics
+
+## Basic CLI Commands
+```
+chmod (user) (group) (other) <file/directory>
+```
+### Linux permission scheme
+```
+0 = no permission
+1 = x
+2 = w
+3 = x+w (1+2)
+4 = r
+5 = r+x (4+1)
+6 = r+w (4+2)
+7 = r+w+x (4+2+1)
+```
+### Simplified
+```
+r = 4
+w = 2
+x = 1
+```
+## Shell Basics
+### Bourne Shells
+1. Bourne Shell
+2. Korn Shell
+3. Borne Again Shell
+4. POSIX Shell
+
+### C Shells
+1. C Shell
+2. TENEX/TOPS C Shell
+3. Z Shell
+
+### Variables
+1. Local  variables
+2. Enviornment variables
+3. Shell Variables

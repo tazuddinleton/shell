@@ -1,0 +1,38 @@
+Unknown Language: this file is called myfile.txt and we are using it as an example input.
+English
+Australian
+French
+Unknown Language: hola
+==> 000_hello_world.sh <==
+#!/bin/sh
+
+==> 001_ask_name.sh <==
+#!/bin/sh
+
+==> 002_variables.sh <==
+#!/bin/sh
+
+==> 003_variables.sh <==
+#!/bin/sh
+
+==> 004_variables_interpolated.sh <==
+#!/bin/sh
+
+==> 005_loop.sh <==
+#!/bin/sh
+
+==> 006_case.sh <==
+#!/bin/sh
+
+==> 007_test.sh <==
+#!/bin/sh
+
+==> 008_chmod.sh <==
+#!/bin/sh
+
+==> 009_sleep.sh <==
+#!/bin/sh
+
+==> 010_create_files.sh <==
+# if [ -d ./data ]
+
