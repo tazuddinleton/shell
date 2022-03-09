@@ -123,3 +123,7 @@ In order to receive environment changes back to in our shell we must `source` th
 ### Wildcards
 
 ### Loops
+
+### Positional Parameters
+`$0...$9` are called positional parameters. The `$0` is the script itself.
+
